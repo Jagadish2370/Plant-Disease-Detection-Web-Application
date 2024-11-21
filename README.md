@@ -45,6 +45,6 @@ Open to contributions!
 
 📊 Performance Metrics
 
-Accuracy: 90%
-Crops Supported: Corn, Potato, Soybean, Tomato
-Classifications: 26 Distinct Categories
+* Accuracy: 90%
+* Crops Supported: Corn, Potato, Soybean, Tomato
+* Classifications: 26 Distinct Categories
