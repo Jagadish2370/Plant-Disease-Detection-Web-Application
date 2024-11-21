@@ -1,44 +1,55 @@
 # Plant-Disease-Detection-Web-Application
 
-This Flask-based web application uses a Convolutional Neural Network (CNN) to classify diseases in agricultural crops, specifically detecting health conditions for corn, potato, soybean, and tomato leaves.
-Dataset
+📝 Overview
+AI-powered web application for automated agricultural leaf disease detection using deep learning, capable of classifying health conditions across corn, potato, soybean, and tomato crops.
+🔬 Features
 
-Full dataset available for download: [Dataset Link Here - Replace with your actual zip file link]
-Contains images categorized across 26 different crop health conditions
-Includes training, validation, and test sets
+Machine Learning Disease Classification
+Web-based Image Upload Interface
+Multi-crop Health Diagnostic System
+90% Prediction Accuracy
 
-Features
-
-Web interface for uploading leaf images
-Real-time disease classification
-Supports multiple crop types
-Machine learning model with 90% accuracy
-
-Technologies Used
+💻 Tech Stack
 
 Python
 Flask
 TensorFlow/Keras
 Convolutional Neural Networks
 
-Installation
+📦 Dataset
+
+Download Dataset Zip File
+26 Different Crop Health Categories
+Includes Training, Validation, Test Sets
+
+🚀 Installation
 Prerequisites
 
 Python 3.8+
 pip
 
-Steps
+Setup
+bashCopy# Clone Repository
+git clone https://github.com/yourusername/project-repo.git
 
-Clone the repository
-Install dependencies: pip install -r requirements.txt
-Download and extract dataset
-Run the application: python app.py
+# Install Dependencies
+pip install -r requirements.txt
 
-Model Training
+# Run Application
+python app.py
+🤖 Model Details
 
-Custom CNN architecture
-Image augmentation techniques
-Early stopping and learning rate reduction
+Custom CNN Architecture
+Image Augmentation
+Early Stopping
+Learning Rate Reduction
 
-Contributions
-Contributions, issues, and feature requests are welcome!
+🤝 Contributions
+Open to contributions! Please read contributing guidelines before submitting pull requests.
+📄 License
+[Specify Your License]
+📊 Performance Metrics
+
+Accuracy: 90%
+Crops Supported: Corn, Potato, Soybean, Tomato
+Classifications: 26 Distinct Categories
