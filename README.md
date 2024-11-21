@@ -32,16 +32,19 @@ pip install -r requirements.txt
 python app.py
 
 🤖 Model Details
+
 Custom CNN Architecture
 Image Augmentation
 Early Stopping
 Learning Rate Reduction
 
 🤝 Contributions
+
 Open to contributions!
 
 
 📊 Performance Metrics
+
 Accuracy: 90%
 Crops Supported: Corn, Potato, Soybean, Tomato
 Classifications: 26 Distinct Categories
