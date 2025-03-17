@@ -17,6 +17,12 @@ This project is a **Plant Disease Detection** web application using Flask and a 
 - NumPy
 - Pillow
 
+## Dataset
+
+Download Dataset Zip File: https://drive.google.com/file/d/1vwvRQev5BW0qV4q9QrbIHZXntIX3I3Rn/view?usp=sharing
+- 26 Different Crop Health Categories
+- Includes Training, Validation, Test Sets
+
 ## 🛠 Installation
 
 1. Install dependencies:
